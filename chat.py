@@ -1,14 +1,4 @@
-"""
-chat.py
-Interactive Q&A over a completed agent run. Give it the run's context
-(profile, cleaning/feature logs, leaderboard, metrics, and a small sample of
-the cleaned data) and it answers follow-up questions grounded in that
-context — "why was column X dropped?", "which model would you pick if I
-cared more about recall?", "what does the RMSE mean here?", etc.
 
-If no LLM is configured, `ask()` returns a short explanatory message instead
-of raising, so the UI can display it directly either way.
-"""
 
 from __future__ import annotations
 from typing import List, Tuple

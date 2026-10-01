@@ -1,0 +1,2002 @@
+CustomerID,Tenure,MonthlyCharges,Contract,InternetService,TechSupport,PaymentMethod,Churn,Country
+CUST-00000,6,46.45,One year,DSL,No,Electronic check,Yes,India
+CUST-00001,55,88.11,One year,No,Yes,Mailed check,No,India
+CUST-00002,47,,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00003,31,57.93,Month-to-month,No,No,Credit card,Yes,India
+CUST-00004,31,62.35,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00005,61,70.58,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00006,6,80.42,Two year,DSL,Yes,Credit card,No,India
+CUST-00007,50,40.01,One year,DSL,Yes,Mailed check,No,India
+CUST-00008,14,38.96,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00009,6,92.62,One year,DSL,No,Electronic check,Yes,India
+CUST-00010,37,54.69,Two year,No,No,Credit card,No,India
+CUST-00011,70,29.58,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00012,52,76.1,One year,No,Yes,Electronic check,Yes,India
+CUST-00013,54,76.58,Two year,DSL,No,Electronic check,No,India
+CUST-00014,51,26.73,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00015,56,70.74,Two year,DSL,No,Mailed check,No,India
+CUST-00016,36,83.39,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00017,9,74.36,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00018,60,,One year,DSL,No,Electronic check,No,India
+CUST-00019,32,29.89,One year,No,Yes,Mailed check,No,India
+CUST-00020,36,73.28,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00021,26,57.43,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00022,13,52.93,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00023,66,86.76,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00024,56,101.98,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00025,46,109.86,One year,DSL,Yes,Mailed check,Yes,India
+CUST-00026,28,,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00027,59,62.26,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00028,39,,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00029,31,84.17,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00030,32,68.03,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00031,16,68.27,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00032,6,85.59,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00033,39,63.52,One year,DSL,No,Bank transfer,No,India
+CUST-00034,63,46.77,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00035,4,54.64,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00036,61,80.85,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00037,59,65.07,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-00038,19,73.51,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00039,45,81.75,Two year,No,No,Credit card,Yes,India
+CUST-00040,11,55.63,Two year,DSL,No,Mailed check,No,India
+CUST-00041,54,83.91,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00042,50,74.47,One year,DSL,No,Bank transfer,No,India
+CUST-00043,25,34.13,One year,DSL,Yes,Bank transfer,No,India
+CUST-00044,4,101.06,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00045,69,,Month-to-month,DSL,No,Credit card,No,India
+CUST-00046,32,23.62,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00047,64,38.87,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00048,48,39.47,One year,DSL,Yes,Mailed check,Yes,India
+CUST-00049,56,66.3,One year,No,No,Credit card,Yes,India
+CUST-00050,54,58.15,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00051,14,56.58,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00052,26,80.49,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00053,33,73.5,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00054,35,72.9,Two year,DSL,Yes,Mailed check,Yes,India
+CUST-00055,3,75.25,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00056,39,80.4,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00057,11,15.0,Two year,DSL,No,Credit card,Yes,India
+CUST-00058,53,55.89,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00059,49,15.0,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00060,66,65.9,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00061,53,64.88,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00062,26,91.14,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00063,69,94.69,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00064,29,70.07,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00065,23,52.49,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00066,65,77.13,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00067,26,51.8,Two year,DSL,No,Bank transfer,No,India
+CUST-00068,5,,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00069,33,89.65,One year,No,Yes,Mailed check,No,India
+CUST-00070,57,51.06,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00071,13,85.14,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00072,33,81.94,One year,DSL,No,Electronic check,Yes,India
+CUST-00073,9,41.13,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00074,49,89.35,Two year,No,Yes,Bank transfer,No,India
+CUST-00075,34,82.46,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00076,23,67.55,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00077,16,45.94,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00078,40,43.52,One year,No,No,Electronic check,No,India
+CUST-00079,48,51.56,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00080,67,78.56,One year,No,No,Bank transfer,No,India
+CUST-00081,31,41.11,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00082,11,75.94,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00083,59,33.96,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00084,45,59.9,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00085,50,67.74,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00086,7,126.13,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00087,22,30.57,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00088,55,101.8,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00089,59,68.75,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00090,31,75.28,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00091,57,67.96,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00092,60,76.12,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00093,27,61.16,One year,No,No,Mailed check,Yes,India
+CUST-00094,64,101.35,Two year,No,Yes,Credit card,No,India
+CUST-00095,20,53.59,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00096,17,93.31,Two year,DSL,No,Credit card,No,India
+CUST-00097,49,48.89,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00098,45,63.49,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00099,10,38.2,One year,No,Yes,Electronic check,No,India
+CUST-00100,59,76.38,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00101,14,101.13,Two year,DSL,Yes,Electronic check,No,India
+CUST-00102,57,63.07,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00103,0,60.08,One year,DSL,No,Mailed check,Yes,India
+CUST-00104,57,37.13,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00105,56,59.27,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00106,56,25.18,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00107,47,42.18,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00108,33,70.67,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-00109,50,97.98,Two year,DSL,No,Mailed check,Yes,India
+CUST-00110,19,135.23,One year,No,No,Credit card,No,India
+CUST-00111,56,50.34,One year,No,Yes,Bank transfer,Yes,India
+CUST-00112,40,100.88,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00113,33,71.09,Two year,No,No,Bank transfer,Yes,India
+CUST-00114,36,61.22,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00115,40,75.81,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00116,2,66.55,One year,DSL,No,Credit card,No,India
+CUST-00117,10,67.76,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00118,17,54.79,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00119,8,30.05,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00120,31,26.41,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00121,48,81.33,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00122,47,58.08,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00123,33,50.1,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00124,61,65.21,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00125,40,84.87,Two year,No,No,Mailed check,No,India
+CUST-00126,5,69.51,Two year,No,No,Electronic check,No,India
+CUST-00127,55,48.6,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00128,41,95.66,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00129,45,104.48,One year,Fiber optic,No,Credit card,Yes,India
+CUST-00130,40,77.36,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00131,39,,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00132,6,96.05,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00133,40,93.25,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00134,57,80.35,One year,DSL,Yes,Electronic check,No,India
+CUST-00135,21,79.96,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00136,43,77.99,One year,Fiber optic,No,Mailed check,No,India
+CUST-00137,2,,One year,No,No,Bank transfer,No,India
+CUST-00138,25,82.52,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00139,31,31.1,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-00140,70,45.14,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00141,15,97.59,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00142,19,86.01,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00143,29,102.18,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00144,71,58.21,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00145,61,36.19,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00146,2,58.99,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00147,16,67.55,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00148,59,66.97,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00149,4,93.34,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00150,61,55.97,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-00151,20,73.8,One year,DSL,Yes,Credit card,No,India
+CUST-00152,66,40.28,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00153,21,76.26,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00154,31,65.08,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00155,47,46.25,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00156,9,59.1,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00157,40,60.4,One year,DSL,No,Mailed check,No,India
+CUST-00158,36,58.25,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00159,56,109.28,One year,No,No,Mailed check,Yes,India
+CUST-00160,71,62.54,Month-to-month,No,No,Mailed check,No,India
+CUST-00161,47,58.9,One year,Fiber optic,Yes,Credit card,No,India
+CUST-00162,29,15.0,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00163,29,42.64,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00164,30,58.42,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00165,58,47.85,One year,DSL,Yes,Bank transfer,No,India
+CUST-00166,23,99.54,Two year,DSL,Yes,Credit card,No,India
+CUST-00167,12,60.88,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00168,24,97.21,One year,Fiber optic,No,Credit card,Yes,India
+CUST-00169,1,66.54,Two year,DSL,No,Credit card,No,India
+CUST-00170,7,65.93,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00171,6,62.78,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00172,55,65.09,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-00173,52,107.97,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00174,50,15.0,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00175,33,15.0,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00176,51,51.42,One year,DSL,No,Credit card,No,India
+CUST-00177,11,65.36,One year,No,No,Mailed check,No,India
+CUST-00178,64,82.25,One year,No,No,Electronic check,No,India
+CUST-00179,36,76.83,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00180,67,55.39,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-00181,10,90.48,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00182,35,,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00183,50,,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00184,35,89.07,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00185,32,71.82,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00186,11,50.96,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00187,27,82.45,One year,DSL,No,Mailed check,Yes,India
+CUST-00188,17,67.77,One year,DSL,Yes,Electronic check,No,India
+CUST-00189,21,65.03,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00190,49,101.82,Two year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00191,45,15.0,One year,DSL,Yes,Electronic check,No,India
+CUST-00192,43,29.56,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00193,26,35.32,One year,DSL,Yes,Bank transfer,No,India
+CUST-00194,69,55.92,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00195,6,58.63,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00196,24,27.32,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00197,8,40.37,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00198,24,43.48,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00199,69,126.44,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00200,26,110.04,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00201,65,54.71,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00202,35,55.91,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00203,50,36.27,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00204,32,,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-00205,19,62.08,Two year,DSL,No,Bank transfer,No,India
+CUST-00206,55,40.05,One year,DSL,Yes,Credit card,No,India
+CUST-00207,69,62.88,Two year,DSL,No,Mailed check,Yes,India
+CUST-00208,18,,Month-to-month,DSL,No,Credit card,No,India
+CUST-00209,56,45.95,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00210,18,68.72,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00211,51,74.16,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00212,56,75.44,Two year,DSL,Yes,Electronic check,No,India
+CUST-00213,32,31.99,Two year,DSL,No,Credit card,No,India
+CUST-00214,53,86.37,Month-to-month,No,No,Bank transfer,No,India
+CUST-00215,19,44.99,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00216,5,80.82,One year,DSL,No,Electronic check,Yes,India
+CUST-00217,6,64.73,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00218,32,30.59,Month-to-month,No,No,Bank transfer,No,India
+CUST-00219,64,57.1,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00220,9,74.13,Two year,No,Yes,Credit card,No,India
+CUST-00221,32,80.32,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00222,50,61.48,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00223,14,103.29,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00224,51,90.19,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00225,22,58.58,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00226,58,83.75,One year,Fiber optic,No,Electronic check,No,India
+CUST-00227,41,113.34,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00228,39,114.01,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00229,12,34.3,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00230,33,41.84,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00231,61,102.12,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00232,1,38.54,One year,No,No,Mailed check,Yes,India
+CUST-00233,54,31.94,Two year,No,No,Mailed check,No,India
+CUST-00234,35,52.85,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00235,51,75.51,Two year,No,No,Bank transfer,Yes,India
+CUST-00236,47,62.44,One year,No,No,Electronic check,Yes,India
+CUST-00237,31,48.74,One year,No,Yes,Credit card,Yes,India
+CUST-00238,22,48.14,One year,No,Yes,Bank transfer,Yes,India
+CUST-00239,45,47.19,One year,Fiber optic,No,Mailed check,No,India
+CUST-00240,10,43.01,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00241,42,122.04,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00242,6,72.44,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00243,46,87.17,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00244,45,52.77,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00245,6,60.35,One year,No,No,Electronic check,No,India
+CUST-00246,54,47.16,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00247,29,15.0,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-00248,56,30.55,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00249,2,19.73,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00250,12,15.0,One year,DSL,No,Electronic check,Yes,India
+CUST-00251,35,35.12,One year,Fiber optic,No,Mailed check,No,India
+CUST-00252,13,98.12,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00253,23,63.89,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00254,47,97.26,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00255,10,75.27,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00256,48,84.56,One year,Fiber optic,Yes,Credit card,No,India
+CUST-00257,7,42.48,One year,No,No,Bank transfer,No,India
+CUST-00258,12,78.1,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00259,42,,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00260,57,50.58,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00261,12,78.99,One year,No,No,Mailed check,Yes,India
+CUST-00262,21,79.15,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00263,66,51.26,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00264,71,,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00265,41,35.4,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00266,32,67.16,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00267,24,73.18,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00268,44,45.19,Two year,DSL,No,Bank transfer,No,India
+CUST-00269,42,65.66,One year,DSL,No,Mailed check,Yes,India
+CUST-00270,21,79.26,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00271,1,80.45,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-00272,10,103.8,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00273,69,96.92,One year,DSL,Yes,Bank transfer,No,India
+CUST-00274,30,39.97,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00275,34,107.09,Two year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00276,33,51.73,Two year,DSL,Yes,Mailed check,Yes,India
+CUST-00277,56,91.12,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00278,4,66.7,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00279,5,54.7,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00280,19,19.81,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00281,35,60.71,One year,DSL,No,Credit card,No,India
+CUST-00282,48,26.02,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00283,35,89.18,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00284,31,102.92,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00285,67,45.08,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00286,11,72.55,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00287,41,46.87,One year,No,Yes,Credit card,No,India
+CUST-00288,39,49.29,Two year,DSL,No,Mailed check,Yes,India
+CUST-00289,34,84.36,One year,DSL,No,Electronic check,No,India
+CUST-00290,58,64.04,Two year,DSL,Yes,Mailed check,No,India
+CUST-00291,19,108.49,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00292,68,52.94,Two year,No,No,Bank transfer,No,India
+CUST-00293,23,89.98,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00294,39,67.44,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00295,37,84.89,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00296,61,53.82,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-00297,31,63.76,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00298,20,62.11,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00299,1,44.1,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00300,26,81.55,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00301,59,81.26,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00302,0,79.84,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00303,64,103.42,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00304,39,101.23,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00305,10,55.63,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00306,21,74.33,Two year,DSL,Yes,Mailed check,No,India
+CUST-00307,39,49.41,Month-to-month,No,No,Credit card,No,India
+CUST-00308,22,65.58,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00309,7,50.01,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00310,47,105.5,One year,DSL,No,Bank transfer,Yes,India
+CUST-00311,48,74.09,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-00312,8,59.55,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00313,20,94.84,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00314,17,15.0,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00315,47,15.0,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00316,52,84.9,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00317,52,66.51,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00318,67,71.26,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00319,55,31.84,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00320,23,64.42,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00321,7,115.09,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00322,44,85.6,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00323,65,69.24,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00324,70,54.02,One year,No,No,Mailed check,No,India
+CUST-00325,16,55.14,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00326,17,,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00327,2,71.44,One year,DSL,No,Mailed check,Yes,India
+CUST-00328,10,86.14,One year,No,No,Bank transfer,No,India
+CUST-00329,39,25.61,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00330,39,48.46,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00331,26,36.06,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00332,22,40.87,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00333,59,66.34,Month-to-month,No,No,Credit card,Yes,India
+CUST-00334,33,15.0,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00335,58,,Two year,DSL,Yes,Mailed check,No,India
+CUST-00336,69,83.85,Month-to-month,No,No,Mailed check,No,India
+CUST-00337,22,58.72,Two year,DSL,No,Mailed check,No,India
+CUST-00338,14,15.0,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00339,68,40.09,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00340,45,95.82,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00341,20,15.0,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00342,44,56.31,Two year,Fiber optic,No,Credit card,No,India
+CUST-00343,37,35.5,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00344,65,85.11,Two year,No,Yes,Credit card,No,India
+CUST-00345,18,48.12,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00346,71,75.1,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00347,67,,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00348,13,110.91,One year,DSL,Yes,Electronic check,No,India
+CUST-00349,11,59.93,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00350,38,74.4,One year,Fiber optic,No,Electronic check,No,India
+CUST-00351,3,27.87,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00352,21,94.76,Two year,DSL,Yes,Credit card,Yes,India
+CUST-00353,31,45.99,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00354,69,50.98,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00355,71,64.44,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00356,10,25.93,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-00357,64,70.72,Two year,No,Yes,Electronic check,No,India
+CUST-00358,6,89.19,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00359,53,72.32,One year,Fiber optic,No,Electronic check,No,India
+CUST-00360,60,25.28,Two year,Fiber optic,No,Credit card,No,India
+CUST-00361,64,61.9,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00362,16,83.55,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00363,64,18.05,One year,Fiber optic,No,Credit card,No,India
+CUST-00364,8,38.13,One year,DSL,No,Credit card,No,India
+CUST-00365,37,86.91,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00366,33,71.75,Two year,DSL,Yes,Electronic check,Yes,India
+CUST-00367,22,75.3,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00368,1,111.49,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00369,55,76.71,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00370,24,81.45,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00371,47,132.77,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00372,29,59.65,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00373,26,45.05,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00374,63,75.69,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00375,6,75.97,One year,DSL,No,Mailed check,Yes,India
+CUST-00376,53,51.83,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00377,53,39.19,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00378,27,122.75,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00379,18,73.17,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00380,0,46.69,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00381,67,87.9,One year,DSL,Yes,Credit card,Yes,India
+CUST-00382,68,62.27,One year,No,No,Credit card,No,India
+CUST-00383,17,58.68,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00384,2,79.06,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00385,8,32.7,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-00386,4,73.82,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00387,59,112.82,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00388,64,76.65,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00389,11,55.59,Month-to-month,No,No,Mailed check,No,India
+CUST-00390,53,52.32,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00391,12,54.74,Month-to-month,No,No,Electronic check,No,India
+CUST-00392,26,,Two year,No,Yes,Bank transfer,No,India
+CUST-00393,43,55.55,Two year,No,No,Credit card,Yes,India
+CUST-00394,51,87.91,Two year,Fiber optic,No,Credit card,No,India
+CUST-00395,62,21.67,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00396,3,86.55,One year,Fiber optic,No,Credit card,Yes,India
+CUST-00397,14,55.51,Two year,Fiber optic,No,Credit card,Yes,India
+CUST-00398,20,74.42,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00399,22,36.83,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00400,71,98.22,One year,DSL,No,Electronic check,No,India
+CUST-00401,55,96.14,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00402,23,88.99,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00403,69,27.13,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00404,35,85.73,One year,DSL,No,Electronic check,No,India
+CUST-00405,36,75.12,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00406,31,24.87,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00407,10,64.39,Month-to-month,No,No,Credit card,Yes,India
+CUST-00408,67,74.11,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00409,1,78.9,Two year,No,Yes,Credit card,Yes,India
+CUST-00410,12,69.43,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00411,16,72.28,One year,No,No,Mailed check,No,India
+CUST-00412,20,101.84,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00413,9,95.65,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00414,1,15.0,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00415,48,57.06,One year,DSL,Yes,Electronic check,No,India
+CUST-00416,69,60.88,One year,Fiber optic,Yes,Credit card,No,India
+CUST-00417,8,21.2,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00418,21,67.35,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00419,36,96.22,Two year,No,No,Mailed check,No,India
+CUST-00420,66,37.84,One year,Fiber optic,No,Electronic check,No,India
+CUST-00421,49,73.41,Two year,DSL,No,Bank transfer,No,India
+CUST-00422,55,42.1,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-00423,41,48.2,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00424,30,101.93,One year,DSL,No,Credit card,No,India
+CUST-00425,14,51.44,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00426,62,76.56,One year,DSL,No,Mailed check,No,India
+CUST-00427,57,18.22,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00428,1,111.56,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00429,51,80.07,One year,DSL,No,Credit card,No,India
+CUST-00430,6,60.44,One year,No,Yes,Electronic check,Yes,India
+CUST-00431,53,79.39,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00432,59,29.75,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00433,9,94.56,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00434,31,,Two year,DSL,No,Bank transfer,No,India
+CUST-00435,8,59.9,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00436,40,52.71,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00437,66,50.48,One year,No,Yes,Credit card,No,India
+CUST-00438,5,82.37,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00439,28,71.4,One year,Fiber optic,Yes,Credit card,No,India
+CUST-00440,70,81.29,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00441,21,64.78,Two year,DSL,No,Electronic check,No,India
+CUST-00442,9,77.83,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00443,35,54.53,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00444,36,120.74,One year,No,No,Electronic check,Yes,India
+CUST-00445,47,25.8,Month-to-month,DSL,No,Credit card,No,India
+CUST-00446,22,96.52,One year,DSL,No,Mailed check,Yes,India
+CUST-00447,68,99.2,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00448,37,43.7,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00449,20,,One year,No,Yes,Mailed check,Yes,India
+CUST-00450,69,89.89,One year,No,No,Mailed check,No,India
+CUST-00451,66,89.28,One year,No,Yes,Credit card,No,India
+CUST-00452,35,65.7,One year,DSL,Yes,Mailed check,No,India
+CUST-00453,1,59.57,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00454,42,59.76,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00455,39,74.76,One year,DSL,No,Bank transfer,Yes,India
+CUST-00456,10,100.03,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00457,45,69.53,Two year,DSL,No,Credit card,No,India
+CUST-00458,60,42.21,One year,DSL,Yes,Mailed check,No,India
+CUST-00459,7,85.61,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00460,52,88.03,Two year,DSL,No,Electronic check,No,India
+CUST-00461,10,81.37,One year,No,Yes,Bank transfer,Yes,India
+CUST-00462,53,83.64,One year,DSL,No,Electronic check,No,India
+CUST-00463,30,58.23,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00464,0,41.78,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00465,69,43.3,Month-to-month,DSL,No,Credit card,No,India
+CUST-00466,11,24.11,One year,Fiber optic,No,Mailed check,No,India
+CUST-00467,42,70.92,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00468,13,62.91,One year,Fiber optic,No,Mailed check,No,India
+CUST-00469,67,54.0,One year,No,No,Credit card,No,India
+CUST-00470,53,15.0,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00471,57,33.82,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00472,31,93.02,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00473,33,48.38,One year,Fiber optic,No,Credit card,No,India
+CUST-00474,45,74.01,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-00475,56,30.23,Two year,DSL,No,Credit card,No,India
+CUST-00476,60,100.97,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00477,1,61.4,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00478,47,72.25,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00479,7,123.14,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00480,20,102.91,One year,No,No,Electronic check,Yes,India
+CUST-00481,59,57.34,One year,DSL,No,Electronic check,No,India
+CUST-00482,18,50.17,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00483,57,56.86,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00484,33,77.75,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00485,16,62.37,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00486,24,55.12,Two year,DSL,Yes,Mailed check,No,India
+CUST-00487,38,101.68,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00488,55,62.14,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00489,43,122.49,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00490,67,67.27,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00491,62,109.63,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00492,54,73.93,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00493,43,89.07,Two year,No,Yes,Credit card,No,India
+CUST-00494,20,46.88,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00495,29,,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00496,8,76.49,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-00497,26,89.71,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00498,66,66.01,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00499,30,32.84,One year,No,Yes,Mailed check,No,India
+CUST-00500,8,30.99,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00501,46,29.32,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00502,69,20.81,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00503,62,67.74,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00504,19,93.13,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00505,32,64.66,Two year,No,No,Bank transfer,No,India
+CUST-00506,38,15.0,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00507,17,60.23,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00508,19,60.93,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00509,17,117.4,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00510,71,28.57,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00511,53,55.23,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00512,60,107.65,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00513,58,76.25,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00514,69,79.08,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-00515,7,67.86,Two year,DSL,No,Bank transfer,No,India
+CUST-00516,63,73.25,One year,DSL,No,Electronic check,No,India
+CUST-00517,4,84.44,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00518,34,44.76,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00519,42,86.95,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00520,25,30.67,One year,No,No,Bank transfer,Yes,India
+CUST-00521,10,73.21,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00522,13,69.47,Two year,DSL,Yes,Credit card,No,India
+CUST-00523,59,49.59,One year,Fiber optic,No,Electronic check,No,India
+CUST-00524,22,64.43,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00525,22,49.44,One year,No,No,Credit card,Yes,India
+CUST-00526,66,38.21,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00527,10,56.16,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00528,65,37.4,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00529,66,73.07,Two year,No,Yes,Electronic check,No,India
+CUST-00530,43,36.25,Two year,DSL,No,Mailed check,No,India
+CUST-00531,11,82.8,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00532,11,35.46,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00533,20,50.84,Two year,DSL,No,Mailed check,Yes,India
+CUST-00534,41,,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00535,11,98.13,One year,DSL,No,Electronic check,Yes,India
+CUST-00536,32,73.26,Month-to-month,DSL,No,Credit card,No,India
+CUST-00537,8,59.71,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00538,38,77.47,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00539,1,15.0,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00540,51,63.92,Month-to-month,DSL,No,Credit card,No,India
+CUST-00541,3,114.94,Two year,No,No,Mailed check,Yes,India
+CUST-00542,14,68.31,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00543,12,66.7,One year,No,Yes,Credit card,Yes,India
+CUST-00544,59,78.7,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00545,3,87.39,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00546,30,15.06,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00547,42,22.94,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00548,37,70.26,One year,Fiber optic,No,Credit card,No,India
+CUST-00549,49,47.13,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00550,57,97.8,Two year,No,Yes,Credit card,No,India
+CUST-00551,28,57.12,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00552,59,,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00553,22,33.3,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00554,70,15.0,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00555,36,59.15,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00556,52,60.29,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00557,63,54.39,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00558,57,91.97,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00559,61,94.96,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00560,38,60.74,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00561,3,15.0,Two year,No,Yes,Credit card,No,India
+CUST-00562,35,80.43,Two year,Fiber optic,No,Mailed check,No,India
+CUST-00563,13,78.88,Two year,Fiber optic,No,Credit card,No,India
+CUST-00564,64,72.73,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-00565,17,89.54,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00566,16,35.88,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00567,17,115.22,Month-to-month,No,No,Credit card,Yes,India
+CUST-00568,46,41.01,Month-to-month,No,No,Electronic check,No,India
+CUST-00569,41,83.73,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00570,68,22.82,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-00571,29,41.74,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00572,20,102.91,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00573,3,58.48,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00574,0,86.0,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00575,26,70.92,One year,DSL,No,Electronic check,No,India
+CUST-00576,66,62.38,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00577,37,99.1,One year,DSL,No,Bank transfer,No,India
+CUST-00578,64,59.08,Two year,Fiber optic,No,Credit card,Yes,India
+CUST-00579,7,20.48,One year,Fiber optic,No,Mailed check,No,India
+CUST-00580,6,44.92,One year,DSL,No,Bank transfer,Yes,India
+CUST-00581,60,78.78,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00582,7,74.89,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00583,3,25.82,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00584,29,46.89,Two year,DSL,No,Credit card,No,India
+CUST-00585,66,50.46,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00586,49,,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00587,7,30.6,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00588,60,49.29,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00589,60,46.78,One year,DSL,No,Bank transfer,No,India
+CUST-00590,57,84.29,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00591,64,85.23,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00592,17,61.35,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-00593,70,55.2,One year,DSL,Yes,Electronic check,No,India
+CUST-00594,23,68.5,Month-to-month,DSL,No,Credit card,No,India
+CUST-00595,57,44.59,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00596,41,36.33,Two year,DSL,No,Electronic check,Yes,India
+CUST-00597,56,41.49,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00598,45,49.13,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00599,46,35.91,One year,DSL,Yes,Bank transfer,No,India
+CUST-00600,44,69.05,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00601,56,83.24,Two year,DSL,No,Credit card,No,India
+CUST-00602,53,25.32,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00603,9,65.63,Two year,DSL,No,Mailed check,No,India
+CUST-00604,59,59.5,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00605,38,,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00606,23,64.68,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00607,37,28.66,Two year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00608,69,33.44,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-00609,61,65.74,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00610,60,90.72,One year,DSL,Yes,Electronic check,No,India
+CUST-00611,33,15.0,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00612,56,73.64,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00613,27,94.74,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00614,49,61.17,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00615,46,,Month-to-month,No,No,Credit card,Yes,India
+CUST-00616,17,,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00617,19,62.02,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00618,4,24.48,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00619,10,15.0,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00620,31,88.57,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00621,34,40.38,Month-to-month,No,No,Bank transfer,No,India
+CUST-00622,11,53.61,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00623,30,30.34,Two year,DSL,Yes,Mailed check,No,India
+CUST-00624,43,29.75,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00625,16,60.65,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00626,24,46.76,Two year,DSL,No,Credit card,No,India
+CUST-00627,26,74.45,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00628,36,76.31,One year,DSL,No,Bank transfer,No,India
+CUST-00629,26,73.02,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00630,53,70.97,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00631,23,104.44,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00632,31,,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00633,27,63.63,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00634,13,93.32,One year,No,No,Bank transfer,No,India
+CUST-00635,49,96.61,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00636,16,29.46,One year,No,Yes,Bank transfer,No,India
+CUST-00637,21,,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00638,57,98.95,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00639,68,77.7,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00640,48,69.88,Two year,No,No,Electronic check,No,India
+CUST-00641,65,59.56,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00642,61,55.4,One year,Fiber optic,No,Credit card,No,India
+CUST-00643,34,72.21,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00644,55,58.69,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00645,23,63.94,One year,No,No,Bank transfer,Yes,India
+CUST-00646,33,66.96,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00647,38,48.05,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00648,69,78.3,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00649,61,,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00650,35,20.58,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00651,46,73.1,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00652,14,46.0,Two year,DSL,No,Electronic check,Yes,India
+CUST-00653,57,79.44,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00654,39,66.16,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-00655,38,84.05,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00656,55,94.39,One year,DSL,No,Bank transfer,No,India
+CUST-00657,45,69.81,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00658,5,93.3,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00659,20,15.0,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00660,12,104.76,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00661,52,74.38,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00662,2,,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00663,14,34.5,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00664,43,44.23,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00665,50,68.65,Two year,No,Yes,Credit card,Yes,India
+CUST-00666,36,64.57,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00667,61,72.08,One year,DSL,No,Credit card,No,India
+CUST-00668,66,92.11,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00669,9,20.87,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00670,68,89.35,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00671,44,65.21,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00672,45,59.91,One year,No,No,Credit card,Yes,India
+CUST-00673,6,28.22,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00674,44,77.58,One year,Fiber optic,No,Electronic check,No,India
+CUST-00675,52,15.0,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00676,41,81.21,One year,Fiber optic,No,Electronic check,No,India
+CUST-00677,6,27.7,Two year,No,No,Credit card,Yes,India
+CUST-00678,37,66.34,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00679,67,62.02,Two year,DSL,Yes,Bank transfer,Yes,India
+CUST-00680,52,94.24,Two year,DSL,Yes,Credit card,Yes,India
+CUST-00681,9,60.53,One year,No,No,Electronic check,No,India
+CUST-00682,69,47.65,Two year,No,No,Bank transfer,No,India
+CUST-00683,69,52.33,Two year,DSL,No,Credit card,No,India
+CUST-00684,12,96.82,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00685,57,78.41,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00686,29,55.36,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00687,42,59.09,Two year,DSL,Yes,Mailed check,Yes,India
+CUST-00688,32,25.82,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00689,56,74.71,Two year,No,No,Electronic check,No,India
+CUST-00690,71,21.0,One year,No,Yes,Credit card,No,India
+CUST-00691,57,,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00692,67,68.22,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00693,68,124.67,One year,No,No,Mailed check,No,India
+CUST-00694,6,37.5,One year,DSL,Yes,Credit card,No,India
+CUST-00695,18,62.43,Two year,DSL,No,Mailed check,No,India
+CUST-00696,51,109.96,Two year,No,No,Mailed check,Yes,India
+CUST-00697,42,94.78,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00698,3,47.59,One year,No,Yes,Electronic check,No,India
+CUST-00699,6,70.6,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00700,37,65.05,Two year,No,Yes,Bank transfer,Yes,India
+CUST-00701,44,72.05,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00702,12,47.53,One year,Fiber optic,No,Credit card,No,India
+CUST-00703,12,62.77,One year,No,Yes,Credit card,Yes,India
+CUST-00704,9,25.05,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00705,40,68.38,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-00706,0,76.25,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00707,41,59.31,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00708,34,24.62,Month-to-month,No,No,Credit card,No,India
+CUST-00709,33,89.71,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00710,48,74.11,One year,DSL,No,Mailed check,No,India
+CUST-00711,37,46.85,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00712,52,57.98,Two year,No,No,Mailed check,Yes,India
+CUST-00713,55,27.48,Month-to-month,No,Yes,Credit card,No,India
+CUST-00714,66,39.36,Month-to-month,No,No,Mailed check,No,India
+CUST-00715,57,51.55,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00716,37,95.71,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00717,35,49.01,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00718,16,81.01,One year,Fiber optic,No,Electronic check,No,India
+CUST-00719,43,51.54,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00720,10,71.2,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00721,67,61.47,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00722,60,86.83,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00723,8,51.63,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00724,56,25.69,Month-to-month,DSL,No,Credit card,No,India
+CUST-00725,8,30.45,Two year,DSL,Yes,Credit card,No,India
+CUST-00726,51,51.7,Month-to-month,No,No,Electronic check,No,India
+CUST-00727,6,33.77,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00728,35,75.26,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00729,47,53.36,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00730,52,124.37,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00731,30,21.56,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00732,66,70.09,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00733,55,36.8,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00734,14,52.66,One year,Fiber optic,No,Mailed check,No,India
+CUST-00735,48,68.54,Two year,No,Yes,Bank transfer,No,India
+CUST-00736,52,15.0,Two year,No,Yes,Bank transfer,No,India
+CUST-00737,24,70.92,One year,DSL,Yes,Mailed check,No,India
+CUST-00738,53,112.57,Two year,Fiber optic,No,Credit card,Yes,India
+CUST-00739,64,53.66,One year,DSL,No,Bank transfer,No,India
+CUST-00740,58,71.5,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00741,54,90.62,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00742,45,,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00743,19,50.48,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00744,57,15.0,Two year,DSL,No,Bank transfer,No,India
+CUST-00745,26,81.02,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00746,38,62.17,Two year,No,Yes,Mailed check,No,India
+CUST-00747,22,39.68,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00748,22,68.16,Month-to-month,No,Yes,Credit card,No,India
+CUST-00749,11,50.41,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00750,69,51.79,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00751,10,,Two year,No,No,Mailed check,Yes,India
+CUST-00752,6,31.54,Month-to-month,No,No,Bank transfer,No,India
+CUST-00753,67,91.18,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00754,39,30.06,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00755,31,,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00756,53,113.07,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00757,27,93.18,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00758,9,67.44,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00759,52,41.49,One year,Fiber optic,No,Credit card,No,India
+CUST-00760,12,51.77,One year,Fiber optic,No,Credit card,No,India
+CUST-00761,39,66.83,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00762,68,65.94,One year,No,No,Credit card,No,India
+CUST-00763,67,62.73,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00764,25,64.23,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00765,56,59.64,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00766,44,28.95,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00767,34,52.09,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00768,10,87.87,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00769,27,30.79,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00770,46,60.26,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00771,71,44.51,One year,Fiber optic,No,Electronic check,No,India
+CUST-00772,0,67.78,One year,No,Yes,Mailed check,Yes,India
+CUST-00773,51,55.28,Two year,DSL,No,Electronic check,No,India
+CUST-00774,60,101.93,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-00775,68,77.66,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-00776,30,32.2,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00777,8,81.78,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-00778,19,,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00779,61,50.58,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-00780,63,72.85,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00781,45,52.71,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00782,8,87.32,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00783,8,45.64,One year,Fiber optic,No,Electronic check,No,India
+CUST-00784,34,49.53,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-00785,42,48.59,One year,Fiber optic,No,Mailed check,No,India
+CUST-00786,2,50.86,One year,No,No,Electronic check,No,India
+CUST-00787,49,92.48,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00788,39,80.72,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00789,0,107.75,One year,Fiber optic,No,Credit card,Yes,India
+CUST-00790,6,121.69,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00791,32,39.23,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00792,52,66.76,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00793,59,35.59,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00794,31,45.56,One year,Fiber optic,Yes,Credit card,No,India
+CUST-00795,21,49.25,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00796,69,38.57,One year,DSL,No,Bank transfer,No,India
+CUST-00797,33,38.7,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00798,22,61.39,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00799,31,,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00800,0,86.05,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00801,21,42.06,One year,No,Yes,Bank transfer,No,India
+CUST-00802,37,135.24,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00803,66,53.72,One year,Fiber optic,No,Mailed check,No,India
+CUST-00804,53,66.8,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00805,56,32.62,One year,Fiber optic,No,Credit card,No,India
+CUST-00806,39,107.65,One year,DSL,Yes,Mailed check,No,India
+CUST-00807,7,92.99,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-00808,28,72.42,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-00809,71,31.33,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00810,3,70.27,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00811,63,36.96,One year,No,No,Bank transfer,No,India
+CUST-00812,49,101.56,One year,DSL,Yes,Electronic check,No,India
+CUST-00813,20,85.23,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-00814,56,67.39,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00815,60,15.0,Month-to-month,No,No,Bank transfer,No,India
+CUST-00816,3,40.41,Month-to-month,No,No,Mailed check,No,India
+CUST-00817,7,82.19,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00818,47,95.32,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00819,71,92.73,One year,DSL,Yes,Bank transfer,No,India
+CUST-00820,1,25.2,Month-to-month,No,No,Mailed check,No,India
+CUST-00821,47,72.54,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00822,9,90.39,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00823,46,23.54,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00824,44,,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00825,6,71.85,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00826,49,57.48,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00827,64,18.7,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-00828,62,56.86,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00829,2,56.82,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-00830,17,61.3,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00831,17,50.91,One year,No,Yes,Credit card,No,India
+CUST-00832,32,53.92,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-00833,10,64.01,One year,DSL,No,Mailed check,No,India
+CUST-00834,61,76.06,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00835,55,57.39,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00836,58,54.76,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-00837,14,67.31,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00838,1,16.98,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00839,65,76.93,Two year,DSL,No,Bank transfer,No,India
+CUST-00840,20,64.99,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00841,47,65.99,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00842,65,89.02,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00843,2,16.18,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00844,0,15.65,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00845,0,71.85,One year,DSL,Yes,Electronic check,Yes,India
+CUST-00846,11,64.82,Two year,DSL,Yes,Credit card,Yes,India
+CUST-00847,3,69.25,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00848,59,53.45,Month-to-month,No,No,Mailed check,Yes,India
+CUST-00849,43,81.61,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-00850,70,88.32,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00851,57,77.1,Two year,DSL,Yes,Credit card,Yes,India
+CUST-00852,69,58.48,Two year,DSL,Yes,Mailed check,No,India
+CUST-00853,17,15.0,Two year,No,No,Electronic check,Yes,India
+CUST-00854,20,84.23,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00855,61,,Month-to-month,No,No,Mailed check,No,India
+CUST-00856,17,81.11,One year,Fiber optic,No,Electronic check,No,India
+CUST-00857,4,43.01,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00858,48,81.84,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-00859,57,86.51,Two year,DSL,Yes,Credit card,No,India
+CUST-00860,69,103.97,One year,Fiber optic,No,Electronic check,No,India
+CUST-00861,66,43.1,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00862,8,59.34,Month-to-month,No,Yes,Credit card,No,India
+CUST-00863,55,83.68,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00864,60,66.44,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00865,50,37.07,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00866,59,75.37,Two year,DSL,No,Credit card,Yes,India
+CUST-00867,60,79.47,One year,DSL,No,Bank transfer,No,India
+CUST-00868,32,,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-00869,2,70.49,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00870,32,58.53,One year,No,Yes,Bank transfer,Yes,India
+CUST-00871,14,101.96,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00872,8,42.48,Two year,Fiber optic,No,Credit card,No,India
+CUST-00873,8,50.32,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-00874,50,65.27,Two year,DSL,Yes,Electronic check,No,India
+CUST-00875,36,86.97,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00876,38,27.57,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00877,53,32.24,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00878,39,15.0,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00879,45,65.82,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00880,6,37.04,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00881,61,55.39,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00882,32,81.53,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00883,11,48.96,One year,No,No,Bank transfer,Yes,India
+CUST-00884,58,70.78,Month-to-month,DSL,No,Credit card,No,India
+CUST-00885,52,57.52,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00886,3,81.8,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00887,13,76.88,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00888,1,,Two year,DSL,No,Credit card,No,India
+CUST-00889,19,60.78,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00890,7,91.09,One year,DSL,Yes,Credit card,No,India
+CUST-00891,51,74.83,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00892,37,30.08,Two year,No,No,Bank transfer,No,India
+CUST-00893,70,81.39,Month-to-month,No,Yes,Mailed check,No,India
+CUST-00894,53,37.88,Two year,DSL,No,Credit card,No,India
+CUST-00895,44,100.31,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00896,36,90.6,One year,DSL,No,Electronic check,Yes,India
+CUST-00897,3,72.25,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-00898,5,68.93,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-00899,44,59.77,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-00900,0,81.96,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-00901,3,55.73,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-00902,15,70.89,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-00903,63,86.8,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00904,33,50.95,Month-to-month,No,No,Electronic check,No,India
+CUST-00905,51,,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00906,29,35.14,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00907,12,38.39,Month-to-month,DSL,No,Credit card,No,India
+CUST-00908,26,19.29,One year,No,No,Credit card,Yes,India
+CUST-00909,6,83.25,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00910,55,110.22,Two year,DSL,Yes,Bank transfer,No,India
+CUST-00911,13,100.63,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00912,27,24.35,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-00913,70,83.12,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-00914,42,100.55,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00915,33,53.58,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00916,39,67.54,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-00917,56,15.0,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00918,18,71.67,One year,DSL,Yes,Bank transfer,No,India
+CUST-00919,45,38.41,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00920,62,69.99,One year,Fiber optic,No,Electronic check,No,India
+CUST-00921,41,,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-00922,32,78.57,Two year,DSL,Yes,Credit card,Yes,India
+CUST-00923,10,90.61,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00924,17,45.42,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00925,68,36.58,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00926,38,15.0,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00927,21,58.34,One year,Fiber optic,No,Credit card,Yes,India
+CUST-00928,30,50.46,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00929,41,26.22,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00930,38,76.33,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00931,50,53.75,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-00932,18,38.11,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00933,46,51.14,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00934,31,91.78,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00935,67,80.07,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-00936,11,61.75,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-00937,10,80.48,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00938,33,35.98,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00939,36,65.81,Month-to-month,No,No,Bank transfer,No,India
+CUST-00940,49,68.68,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00941,29,53.25,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00942,65,75.89,Month-to-month,DSL,No,Mailed check,No,India
+CUST-00943,34,45.49,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00944,9,77.75,One year,Fiber optic,No,Bank transfer,No,India
+CUST-00945,8,,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00946,70,15.0,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-00947,9,94.76,One year,No,No,Bank transfer,Yes,India
+CUST-00948,68,,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00949,20,49.6,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00950,6,90.63,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-00951,21,57.07,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00952,44,28.35,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00953,30,37.66,Two year,No,No,Mailed check,No,India
+CUST-00954,56,90.67,Two year,Fiber optic,No,Electronic check,No,India
+CUST-00955,43,,Two year,DSL,No,Mailed check,No,India
+CUST-00956,28,93.22,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00957,45,63.62,Month-to-month,No,Yes,Credit card,No,India
+CUST-00958,69,35.19,Month-to-month,No,No,Mailed check,No,India
+CUST-00959,29,50.42,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-00960,11,39.57,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-00961,29,86.66,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00962,60,83.31,Month-to-month,No,No,Credit card,No,India
+CUST-00963,15,22.02,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-00964,68,54.91,Month-to-month,No,No,Mailed check,No,India
+CUST-00965,42,43.42,One year,Fiber optic,No,Mailed check,No,India
+CUST-00966,43,97.34,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-00967,22,31.25,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-00968,66,105.11,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00969,2,64.17,Month-to-month,DSL,No,Electronic check,No,India
+CUST-00970,21,35.95,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00971,30,48.07,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-00972,34,44.96,Month-to-month,No,No,Credit card,Yes,India
+CUST-00973,34,33.13,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-00974,10,67.37,One year,No,No,Credit card,Yes,India
+CUST-00975,16,34.3,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-00976,6,15.0,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00977,41,55.51,Two year,DSL,No,Bank transfer,Yes,India
+CUST-00978,25,19.93,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-00979,40,46.2,One year,DSL,Yes,Electronic check,No,India
+CUST-00980,42,42.27,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-00981,50,43.22,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-00982,39,115.02,Month-to-month,No,No,Electronic check,Yes,India
+CUST-00983,46,66.41,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-00984,42,71.13,One year,No,No,Electronic check,No,India
+CUST-00985,46,20.59,Month-to-month,No,Yes,Electronic check,No,India
+CUST-00986,44,48.65,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-00987,22,70.38,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-00988,17,39.39,Two year,No,No,Electronic check,Yes,India
+CUST-00989,56,87.7,One year,No,Yes,Mailed check,No,India
+CUST-00990,24,34.93,Two year,No,No,Mailed check,Yes,India
+CUST-00991,39,57.84,One year,DSL,Yes,Bank transfer,No,India
+CUST-00992,14,50.35,One year,DSL,No,Electronic check,Yes,India
+CUST-00993,31,69.11,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-00994,38,48.99,Two year,DSL,No,Mailed check,No,India
+CUST-00995,45,58.23,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-00996,37,59.1,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-00997,25,,One year,DSL,No,Mailed check,Yes,India
+CUST-00998,69,77.13,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-00999,36,70.96,Month-to-month,No,Yes,Credit card,No,India
+CUST-01000,58,62.78,Month-to-month,No,No,Credit card,No,India
+CUST-01001,53,54.24,Month-to-month,No,No,Mailed check,No,India
+CUST-01002,40,84.91,Two year,DSL,No,Mailed check,No,India
+CUST-01003,63,59.1,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01004,9,57.33,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01005,66,67.62,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01006,61,107.41,One year,DSL,No,Electronic check,Yes,India
+CUST-01007,36,31.49,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01008,52,84.25,Two year,No,No,Electronic check,Yes,India
+CUST-01009,37,17.67,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01010,19,70.43,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01011,57,104.38,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01012,17,77.22,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01013,22,69.27,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01014,37,50.99,One year,Fiber optic,No,Mailed check,No,India
+CUST-01015,60,65.78,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01016,27,58.7,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01017,35,45.35,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01018,2,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01019,8,69.96,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01020,4,45.82,Two year,DSL,No,Electronic check,Yes,India
+CUST-01021,5,44.84,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01022,62,30.99,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01023,60,74.77,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01024,59,,Two year,No,No,Credit card,Yes,India
+CUST-01025,4,70.79,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01026,5,,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01027,20,67.2,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01028,40,74.8,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01029,24,72.6,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01030,35,62.71,One year,No,Yes,Credit card,No,India
+CUST-01031,12,51.73,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01032,52,120.35,One year,DSL,No,Electronic check,No,India
+CUST-01033,22,53.7,Two year,DSL,Yes,Electronic check,No,India
+CUST-01034,4,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01035,53,75.85,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01036,65,71.3,One year,DSL,No,Electronic check,No,India
+CUST-01037,1,29.88,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01038,31,93.07,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01039,59,62.65,Month-to-month,No,No,Electronic check,No,India
+CUST-01040,50,37.23,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01041,61,94.72,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01042,29,80.64,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01043,26,33.39,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01044,51,109.43,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01045,11,,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01046,17,64.75,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01047,43,104.76,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01048,48,68.98,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01049,8,64.3,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01050,36,48.49,Two year,No,No,Bank transfer,No,India
+CUST-01051,26,79.55,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01052,36,76.92,One year,DSL,Yes,Electronic check,No,India
+CUST-01053,69,65.37,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01054,5,45.25,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01055,71,68.25,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01056,32,63.26,One year,DSL,Yes,Mailed check,Yes,India
+CUST-01057,55,31.66,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01058,30,28.2,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01059,22,79.13,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01060,55,15.0,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01061,49,70.14,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-01062,10,53.05,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01063,50,97.71,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01064,54,52.66,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01065,27,81.49,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01066,66,55.08,One year,DSL,Yes,Mailed check,No,India
+CUST-01067,46,67.84,One year,No,No,Electronic check,No,India
+CUST-01068,24,83.42,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01069,0,53.44,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01070,48,89.91,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01071,15,40.16,One year,No,Yes,Electronic check,No,India
+CUST-01072,54,72.36,One year,DSL,No,Electronic check,No,India
+CUST-01073,37,88.07,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-01074,33,81.5,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01075,11,112.91,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01076,51,45.91,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01077,11,30.52,One year,DSL,No,Bank transfer,Yes,India
+CUST-01078,30,40.14,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01079,60,81.51,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01080,66,77.45,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01081,71,67.56,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01082,68,36.93,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01083,40,84.17,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01084,14,34.38,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01085,60,93.97,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01086,57,136.44,One year,Fiber optic,No,Mailed check,No,India
+CUST-01087,71,74.16,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01088,46,79.58,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01089,10,52.68,Two year,DSL,No,Electronic check,Yes,India
+CUST-01090,36,19.74,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01091,32,49.93,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01092,60,37.68,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01093,28,28.82,One year,Fiber optic,No,Electronic check,No,India
+CUST-01094,23,108.06,Two year,DSL,No,Credit card,No,India
+CUST-01095,5,71.82,One year,DSL,No,Electronic check,Yes,India
+CUST-01096,60,74.49,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01097,54,57.27,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01098,2,60.68,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01099,31,89.11,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01100,34,,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01101,33,78.27,Month-to-month,No,No,Credit card,Yes,India
+CUST-01102,66,60.1,Two year,DSL,Yes,Electronic check,No,India
+CUST-01103,10,56.45,One year,DSL,No,Mailed check,No,India
+CUST-01104,22,29.83,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01105,13,,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-01106,17,58.46,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01107,65,66.41,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01108,67,32.85,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01109,3,64.14,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01110,45,66.34,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01111,16,15.0,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01112,13,42.12,One year,DSL,Yes,Mailed check,No,India
+CUST-01113,21,75.18,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01114,13,74.68,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01115,35,36.16,Month-to-month,No,No,Credit card,Yes,India
+CUST-01116,71,68.96,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01117,42,90.56,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01118,52,,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01119,35,62.62,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01120,1,53.3,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01121,6,,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01122,19,76.7,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01123,17,69.88,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01124,60,80.74,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01125,60,68.3,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01126,61,85.47,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01127,45,67.36,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01128,40,84.62,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01129,46,86.77,One year,No,Yes,Bank transfer,Yes,India
+CUST-01130,29,44.89,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01131,48,19.8,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01132,57,103.59,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01133,54,71.42,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01134,44,22.14,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01135,4,47.15,Two year,No,No,Bank transfer,Yes,India
+CUST-01136,52,84.3,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01137,26,58.01,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01138,53,52.2,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01139,38,100.02,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01140,63,38.82,One year,No,No,Bank transfer,No,India
+CUST-01141,24,45.05,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01142,67,70.28,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01143,60,74.76,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01144,23,77.41,Two year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01145,34,87.78,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-01146,38,69.96,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01147,55,77.23,One year,No,No,Credit card,No,India
+CUST-01148,49,58.52,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01149,61,66.57,Two year,DSL,Yes,Mailed check,No,India
+CUST-01150,26,67.69,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01151,36,70.38,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01152,31,84.31,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01153,65,78.88,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01154,21,66.11,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01155,42,44.77,Month-to-month,No,No,Bank transfer,No,India
+CUST-01156,8,66.69,One year,DSL,No,Mailed check,Yes,India
+CUST-01157,61,64.3,One year,DSL,Yes,Electronic check,No,India
+CUST-01158,27,69.83,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01159,24,120.16,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01160,41,51.91,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01161,35,75.56,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01162,61,91.71,Two year,DSL,Yes,Electronic check,No,India
+CUST-01163,38,67.45,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01164,37,123.45,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01165,7,55.55,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01166,1,73.1,Two year,Fiber optic,No,Electronic check,No,India
+CUST-01167,28,45.03,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01168,71,56.21,One year,DSL,No,Credit card,No,India
+CUST-01169,66,71.22,One year,DSL,Yes,Bank transfer,No,India
+CUST-01170,45,86.16,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01171,45,72.98,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01172,28,96.48,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-01173,12,62.63,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01174,0,56.7,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01175,24,132.6,One year,DSL,No,Credit card,Yes,India
+CUST-01176,22,74.86,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01177,13,47.01,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01178,18,47.64,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01179,1,41.43,One year,DSL,Yes,Credit card,Yes,India
+CUST-01180,43,88.41,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01181,66,55.89,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01182,49,68.18,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01183,32,63.41,Two year,DSL,No,Electronic check,No,India
+CUST-01184,30,83.29,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01185,22,43.83,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01186,10,,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01187,43,70.61,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01188,40,80.02,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01189,0,73.31,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01190,29,44.76,Two year,DSL,Yes,Credit card,No,India
+CUST-01191,20,81.94,One year,Fiber optic,No,Credit card,No,India
+CUST-01192,12,46.4,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01193,50,51.96,One year,Fiber optic,No,Credit card,No,India
+CUST-01194,37,41.4,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01195,45,,Two year,No,Yes,Electronic check,No,India
+CUST-01196,51,80.84,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01197,70,80.12,One year,No,No,Mailed check,No,India
+CUST-01198,57,96.18,One year,DSL,No,Mailed check,No,India
+CUST-01199,44,135.32,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01200,63,22.27,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01201,34,46.54,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01202,70,49.6,Two year,Fiber optic,No,Credit card,No,India
+CUST-01203,54,43.73,Month-to-month,No,No,Bank transfer,No,India
+CUST-01204,46,38.06,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01205,65,57.51,One year,Fiber optic,Yes,Credit card,No,India
+CUST-01206,37,34.58,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01207,51,73.38,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01208,20,66.29,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01209,69,77.03,One year,DSL,No,Mailed check,No,India
+CUST-01210,44,77.69,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01211,56,80.08,Two year,No,Yes,Bank transfer,No,India
+CUST-01212,33,55.66,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01213,62,118.03,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01214,5,70.86,Two year,Fiber optic,Yes,Credit card,No,India
+CUST-01215,8,18.44,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01216,36,39.94,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01217,52,21.49,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01218,58,65.43,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01219,31,61.95,Two year,No,No,Credit card,No,India
+CUST-01220,46,53.29,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01221,39,115.27,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01222,69,78.72,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-01223,47,83.15,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01224,30,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01225,69,,Two year,No,Yes,Bank transfer,No,India
+CUST-01226,7,65.92,Two year,DSL,Yes,Electronic check,No,India
+CUST-01227,70,69.33,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01228,11,18.59,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01229,20,60.49,One year,Fiber optic,No,Mailed check,No,India
+CUST-01230,59,65.35,Month-to-month,No,No,Electronic check,No,India
+CUST-01231,52,59.62,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01232,69,44.67,Two year,No,Yes,Credit card,No,India
+CUST-01233,53,51.51,One year,DSL,No,Credit card,No,India
+CUST-01234,45,60.58,One year,DSL,Yes,Mailed check,No,India
+CUST-01235,24,67.27,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01236,0,80.12,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01237,8,92.02,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01238,21,57.64,Two year,DSL,No,Electronic check,No,India
+CUST-01239,2,53.6,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01240,36,75.94,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01241,55,80.27,Month-to-month,DSL,No,Credit card,No,India
+CUST-01242,69,54.14,Two year,Fiber optic,No,Electronic check,No,India
+CUST-01243,35,84.76,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01244,63,89.49,One year,DSL,Yes,Mailed check,No,India
+CUST-01245,70,97.29,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01246,61,109.46,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01247,33,43.34,One year,Fiber optic,Yes,Credit card,No,India
+CUST-01248,23,65.35,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01249,70,65.28,Two year,No,Yes,Mailed check,No,India
+CUST-01250,17,62.55,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01251,29,48.77,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01252,5,27.86,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01253,57,67.32,Two year,DSL,Yes,Credit card,No,India
+CUST-01254,46,45.79,One year,No,Yes,Bank transfer,No,India
+CUST-01255,6,67.15,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01256,15,45.15,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01257,39,37.51,Month-to-month,No,No,Credit card,No,India
+CUST-01258,38,,One year,No,Yes,Bank transfer,No,India
+CUST-01259,57,68.77,Two year,DSL,No,Electronic check,No,India
+CUST-01260,19,79.48,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01261,66,119.65,Month-to-month,No,No,Bank transfer,No,India
+CUST-01262,32,71.93,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01263,59,,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01264,17,38.06,One year,No,Yes,Credit card,No,India
+CUST-01265,2,32.83,Month-to-month,DSL,No,Credit card,No,India
+CUST-01266,3,104.57,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01267,26,41.91,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01268,68,,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01269,3,64.02,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01270,26,62.75,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01271,7,42.44,One year,Fiber optic,No,Mailed check,No,India
+CUST-01272,67,57.38,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01273,48,95.73,Two year,DSL,Yes,Credit card,No,India
+CUST-01274,54,44.85,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01275,51,30.16,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01276,47,88.56,One year,No,Yes,Bank transfer,Yes,India
+CUST-01277,55,77.31,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-01278,0,49.49,Two year,DSL,Yes,Electronic check,No,India
+CUST-01279,62,25.45,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01280,53,,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01281,53,63.63,Two year,Fiber optic,No,Electronic check,No,India
+CUST-01282,28,94.14,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01283,57,39.09,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01284,27,62.89,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01285,3,81.88,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01286,65,15.0,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01287,16,90.84,One year,No,Yes,Mailed check,No,India
+CUST-01288,7,35.44,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01289,44,73.3,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01290,16,71.17,One year,DSL,Yes,Bank transfer,No,India
+CUST-01291,61,92.11,Month-to-month,No,No,Bank transfer,No,India
+CUST-01292,31,78.77,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01293,0,15.0,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01294,68,45.38,Two year,DSL,No,Credit card,No,India
+CUST-01295,37,68.46,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01296,18,60.13,Two year,No,No,Credit card,Yes,India
+CUST-01297,48,76.94,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01298,38,84.73,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01299,2,80.21,Two year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01300,54,59.64,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01301,28,18.84,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01302,50,,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01303,64,75.41,Month-to-month,DSL,No,Credit card,No,India
+CUST-01304,43,37.74,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-01305,48,80.78,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01306,18,87.71,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01307,17,68.17,One year,No,No,Electronic check,Yes,India
+CUST-01308,29,15.0,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01309,61,33.05,One year,DSL,No,Electronic check,No,India
+CUST-01310,37,112.15,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01311,25,,One year,No,No,Mailed check,No,India
+CUST-01312,56,15.4,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-01313,61,95.88,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01314,64,65.33,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01315,21,92.62,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01316,51,71.92,Month-to-month,No,No,Bank transfer,No,India
+CUST-01317,42,76.46,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01318,32,74.08,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01319,28,82.44,Two year,DSL,No,Bank transfer,No,India
+CUST-01320,8,121.94,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01321,19,89.28,Two year,DSL,No,Mailed check,Yes,India
+CUST-01322,39,25.49,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01323,63,76.17,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01324,62,93.54,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01325,13,95.07,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01326,48,54.33,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01327,6,94.12,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01328,48,88.19,Two year,DSL,Yes,Mailed check,No,India
+CUST-01329,24,129.31,One year,No,No,Electronic check,No,India
+CUST-01330,32,,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01331,51,52.31,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01332,30,57.35,One year,DSL,No,Bank transfer,Yes,India
+CUST-01333,58,52.74,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01334,38,42.75,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01335,71,15.0,Month-to-month,No,No,Credit card,No,India
+CUST-01336,45,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01337,21,74.23,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01338,55,52.67,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01339,29,113.38,One year,DSL,No,Mailed check,Yes,India
+CUST-01340,38,65.33,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01341,9,97.28,One year,DSL,No,Electronic check,Yes,India
+CUST-01342,8,71.54,Month-to-month,No,No,Mailed check,No,India
+CUST-01343,41,,Two year,DSL,No,Credit card,No,India
+CUST-01344,13,71.98,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01345,71,99.22,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01346,61,66.4,Month-to-month,No,No,Bank transfer,No,India
+CUST-01347,50,77.4,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01348,52,74.16,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01349,42,57.79,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01350,4,75.12,Two year,No,Yes,Bank transfer,No,India
+CUST-01351,28,120.86,Month-to-month,DSL,No,Credit card,No,India
+CUST-01352,35,58.24,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01353,65,75.49,One year,No,No,Mailed check,No,India
+CUST-01354,15,96.44,One year,DSL,No,Electronic check,No,India
+CUST-01355,35,93.51,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01356,24,65.29,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01357,9,15.0,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01358,7,77.92,One year,DSL,No,Bank transfer,Yes,India
+CUST-01359,26,15.0,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01360,5,101.75,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01361,4,,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01362,25,89.99,One year,DSL,No,Electronic check,No,India
+CUST-01363,14,42.45,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01364,39,26.19,One year,No,No,Bank transfer,No,India
+CUST-01365,1,71.52,One year,DSL,No,Electronic check,Yes,India
+CUST-01366,21,,One year,DSL,Yes,Bank transfer,No,India
+CUST-01367,32,52.71,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01368,69,67.12,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01369,45,134.19,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01370,63,85.86,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01371,24,91.24,Two year,No,Yes,Bank transfer,No,India
+CUST-01372,32,,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01373,30,101.99,Two year,Fiber optic,No,Credit card,No,India
+CUST-01374,63,60.25,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01375,69,15.0,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01376,69,60.29,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01377,54,85.29,One year,Fiber optic,No,Mailed check,No,India
+CUST-01378,36,40.75,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01379,38,60.59,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01380,70,47.71,One year,DSL,No,Credit card,No,India
+CUST-01381,20,102.55,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01382,24,83.74,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01383,64,81.29,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01384,27,80.54,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01385,16,64.07,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01386,40,69.94,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01387,23,35.37,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01388,64,15.0,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01389,65,68.75,One year,DSL,Yes,Credit card,No,India
+CUST-01390,22,73.1,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01391,38,95.23,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01392,70,104.28,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01393,53,104.25,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01394,15,40.05,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01395,42,56.19,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01396,44,77.01,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01397,47,128.3,Two year,DSL,No,Electronic check,Yes,India
+CUST-01398,1,102.0,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01399,21,92.98,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01400,61,55.31,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01401,17,42.92,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01402,21,84.72,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01403,23,37.48,Month-to-month,No,No,Electronic check,No,India
+CUST-01404,12,59.04,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01405,11,62.13,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01406,24,104.82,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01407,62,56.13,Two year,No,Yes,Bank transfer,No,India
+CUST-01408,0,15.0,Two year,No,No,Mailed check,No,India
+CUST-01409,20,77.61,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01410,4,47.52,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01411,40,66.07,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01412,18,62.83,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01413,57,58.16,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01414,42,84.76,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01415,56,26.68,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01416,45,52.07,Two year,DSL,Yes,Credit card,No,India
+CUST-01417,31,82.1,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01418,61,49.65,One year,DSL,No,Bank transfer,Yes,India
+CUST-01419,34,24.78,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01420,68,,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01421,71,93.08,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01422,42,63.88,One year,Fiber optic,No,Electronic check,No,India
+CUST-01423,48,15.98,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01424,18,82.65,Two year,Fiber optic,No,Credit card,Yes,India
+CUST-01425,58,23.5,Month-to-month,DSL,No,Credit card,No,India
+CUST-01426,48,72.72,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01427,64,,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01428,19,36.0,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01429,56,53.95,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01430,33,60.42,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01431,13,48.89,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01432,12,79.72,One year,Fiber optic,No,Credit card,No,India
+CUST-01433,40,,Two year,No,No,Credit card,No,India
+CUST-01434,23,89.5,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01435,7,72.03,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01436,30,47.56,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01437,47,43.35,One year,No,No,Electronic check,No,India
+CUST-01438,22,23.81,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01439,68,72.27,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-01440,56,56.14,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-01441,36,15.0,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01442,67,51.61,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01443,31,42.47,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01444,10,104.39,Two year,DSL,No,Electronic check,Yes,India
+CUST-01445,2,22.43,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01446,67,28.97,One year,Fiber optic,Yes,Credit card,No,India
+CUST-01447,69,92.75,One year,No,No,Electronic check,No,India
+CUST-01448,53,98.92,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01449,7,46.38,Two year,No,No,Electronic check,No,India
+CUST-01450,21,49.2,Month-to-month,No,No,Bank transfer,No,India
+CUST-01451,2,80.41,One year,DSL,No,Credit card,No,India
+CUST-01452,3,15.0,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01453,17,18.47,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01454,41,57.98,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01455,4,103.75,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01456,70,54.11,Two year,Fiber optic,No,Credit card,No,India
+CUST-01457,32,67.52,Two year,No,No,Mailed check,No,India
+CUST-01458,18,93.34,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01459,37,117.67,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01460,56,50.58,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01461,22,64.58,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01462,3,110.55,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01463,3,26.95,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01464,61,90.69,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01465,8,39.54,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-01466,45,67.56,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01467,27,58.93,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01468,55,41.05,Month-to-month,No,No,Mailed check,No,India
+CUST-01469,4,40.42,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01470,64,71.91,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01471,50,89.89,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01472,32,61.76,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01473,14,66.75,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01474,70,79.28,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01475,21,40.71,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01476,35,83.49,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01477,28,,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01478,16,130.09,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01479,29,,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01480,10,53.55,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01481,0,84.22,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01482,20,85.48,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01483,8,51.62,One year,DSL,No,Electronic check,Yes,India
+CUST-01484,29,54.92,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01485,62,78.53,Month-to-month,No,No,Bank transfer,No,India
+CUST-01486,11,44.31,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01487,0,54.74,One year,DSL,No,Bank transfer,Yes,India
+CUST-01488,7,67.24,Two year,DSL,No,Mailed check,No,India
+CUST-01489,36,89.9,One year,DSL,Yes,Credit card,No,India
+CUST-01490,19,49.89,One year,No,No,Mailed check,Yes,India
+CUST-01491,35,18.94,One year,DSL,No,Electronic check,Yes,India
+CUST-01492,2,17.09,One year,DSL,No,Credit card,No,India
+CUST-01493,23,33.51,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01494,29,32.17,One year,DSL,Yes,Mailed check,No,India
+CUST-01495,31,61.13,One year,DSL,No,Bank transfer,No,India
+CUST-01496,39,35.28,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-01497,56,47.43,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01498,33,45.65,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01499,60,53.99,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01500,38,98.06,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01501,18,81.55,One year,DSL,Yes,Bank transfer,No,India
+CUST-01502,16,65.4,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01503,23,53.47,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01504,43,54.17,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01505,17,73.19,Month-to-month,No,Yes,Mailed check,No,India
+CUST-01506,65,79.6,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01507,34,42.31,Two year,No,Yes,Electronic check,No,India
+CUST-01508,62,65.91,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01509,49,15.0,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01510,24,70.29,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01511,16,84.05,Two year,DSL,No,Electronic check,Yes,India
+CUST-01512,53,58.0,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01513,23,110.41,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01514,17,42.97,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01515,66,70.44,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01516,34,64.1,One year,DSL,No,Credit card,No,India
+CUST-01517,3,62.49,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01518,35,62.14,One year,DSL,No,Bank transfer,No,India
+CUST-01519,33,67.68,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01520,62,86.2,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01521,51,99.44,One year,No,No,Bank transfer,Yes,India
+CUST-01522,13,64.94,One year,DSL,No,Credit card,No,India
+CUST-01523,10,85.38,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01524,43,47.46,One year,DSL,No,Electronic check,No,India
+CUST-01525,3,84.15,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01526,22,45.95,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01527,9,92.27,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01528,1,120.27,Two year,No,Yes,Electronic check,Yes,India
+CUST-01529,66,61.95,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01530,6,15.0,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01531,0,51.3,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01532,67,95.8,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01533,13,78.83,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01534,58,71.22,One year,No,No,Electronic check,No,India
+CUST-01535,2,90.22,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01536,11,77.11,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01537,7,95.44,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01538,50,87.99,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01539,44,103.04,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01540,34,73.97,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01541,17,87.63,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01542,6,57.32,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01543,40,49.96,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01544,16,107.67,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01545,42,70.41,One year,No,No,Electronic check,No,India
+CUST-01546,49,85.12,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01547,61,68.09,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01548,35,50.34,Two year,DSL,Yes,Mailed check,No,India
+CUST-01549,0,65.27,One year,Fiber optic,No,Credit card,No,India
+CUST-01550,20,100.9,One year,DSL,Yes,Credit card,No,India
+CUST-01551,61,78.88,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01552,38,22.21,Two year,No,No,Mailed check,No,India
+CUST-01553,44,,One year,No,No,Mailed check,No,India
+CUST-01554,32,109.56,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01555,11,59.66,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01556,64,19.99,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01557,55,112.33,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01558,71,82.06,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01559,61,63.25,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01560,20,55.71,Two year,DSL,No,Mailed check,No,India
+CUST-01561,18,92.06,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01562,17,51.45,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01563,66,93.71,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01564,40,78.55,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01565,32,71.12,One year,DSL,No,Electronic check,Yes,India
+CUST-01566,69,68.64,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01567,43,60.63,Two year,DSL,Yes,Mailed check,No,India
+CUST-01568,65,,One year,DSL,No,Electronic check,No,India
+CUST-01569,70,43.37,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01570,5,24.45,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01571,26,80.36,Two year,No,Yes,Credit card,No,India
+CUST-01572,52,80.78,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01573,58,77.01,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01574,10,,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01575,22,56.99,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01576,39,84.69,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01577,57,63.86,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01578,8,52.82,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01579,43,57.2,Month-to-month,No,Yes,Mailed check,No,India
+CUST-01580,21,115.52,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01581,15,21.63,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01582,37,,Month-to-month,No,No,Credit card,No,India
+CUST-01583,29,23.02,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01584,45,62.29,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01585,22,54.16,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01586,59,15.0,Two year,DSL,No,Credit card,No,India
+CUST-01587,5,74.73,One year,DSL,Yes,Mailed check,No,India
+CUST-01588,62,55.5,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-01589,2,,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01590,52,85.99,One year,No,Yes,Mailed check,Yes,India
+CUST-01591,24,100.88,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01592,27,102.25,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01593,1,73.97,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01594,50,66.15,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01595,11,98.2,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01596,47,107.06,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01597,52,93.34,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-01598,60,41.46,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01599,50,70.03,One year,Fiber optic,Yes,Credit card,No,India
+CUST-01600,21,75.99,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01601,53,19.76,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01602,59,76.73,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01603,22,121.82,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01604,8,81.0,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01605,64,101.84,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01606,10,69.57,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01607,42,63.17,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01608,17,74.53,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01609,9,44.6,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01610,55,40.91,Two year,DSL,Yes,Mailed check,No,India
+CUST-01611,10,96.66,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01612,48,99.31,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01613,49,40.22,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01614,4,89.2,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01615,12,62.83,Two year,Fiber optic,Yes,Electronic check,No,India
+CUST-01616,57,73.5,Two year,No,No,Credit card,Yes,India
+CUST-01617,36,76.51,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01618,8,89.86,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01619,71,67.07,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01620,19,100.25,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01621,0,72.74,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01622,66,80.6,Month-to-month,No,No,Credit card,Yes,India
+CUST-01623,1,44.17,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01624,39,118.97,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01625,71,76.75,One year,DSL,Yes,Mailed check,No,India
+CUST-01626,41,82.82,Two year,No,Yes,Mailed check,No,India
+CUST-01627,42,24.8,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01628,27,,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01629,9,95.95,One year,DSL,Yes,Electronic check,No,India
+CUST-01630,41,72.17,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01631,64,17.16,Two year,No,No,Mailed check,No,India
+CUST-01632,6,90.96,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01633,63,51.41,Two year,DSL,No,Bank transfer,Yes,India
+CUST-01634,29,100.28,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01635,38,62.8,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01636,11,70.12,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01637,44,94.47,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01638,13,42.56,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01639,19,40.18,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01640,51,60.09,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01641,3,85.68,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01642,32,31.73,Month-to-month,No,No,Credit card,Yes,India
+CUST-01643,42,23.3,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01644,9,85.59,Two year,Fiber optic,No,Electronic check,No,India
+CUST-01645,21,49.93,Two year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01646,24,55.19,Month-to-month,No,No,Mailed check,Yes,India
+CUST-01647,47,18.58,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01648,70,48.03,One year,No,No,Electronic check,No,India
+CUST-01649,60,64.81,Two year,DSL,Yes,Bank transfer,No,India
+CUST-01650,13,88.26,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01651,1,45.72,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01652,3,106.43,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01653,42,47.89,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01654,11,47.92,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01655,16,103.43,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01656,61,70.29,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01657,62,51.2,One year,No,Yes,Credit card,No,India
+CUST-01658,60,61.12,Two year,No,Yes,Bank transfer,No,India
+CUST-01659,18,98.83,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01660,44,101.66,One year,DSL,No,Credit card,No,India
+CUST-01661,43,44.58,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01662,13,63.94,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01663,39,67.25,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01664,37,40.34,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01665,28,63.61,Two year,DSL,Yes,Credit card,No,India
+CUST-01666,54,65.13,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01667,48,93.51,Month-to-month,No,Yes,Electronic check,No,India
+CUST-01668,38,95.19,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01669,52,56.77,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01670,54,59.65,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01671,40,81.61,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01672,19,50.37,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01673,54,79.72,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01674,51,62.8,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01675,70,40.77,One year,DSL,No,Bank transfer,No,India
+CUST-01676,10,41.08,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01677,30,101.18,One year,DSL,No,Electronic check,No,India
+CUST-01678,66,61.09,Two year,Fiber optic,No,Bank transfer,No,India
+CUST-01679,37,106.01,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01680,67,52.16,Month-to-month,No,Yes,Mailed check,No,India
+CUST-01681,0,72.28,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01682,2,124.82,One year,No,Yes,Electronic check,Yes,India
+CUST-01683,57,38.57,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01684,25,17.55,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01685,37,97.16,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01686,30,44.33,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01687,29,64.48,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01688,67,50.35,One year,DSL,No,Mailed check,No,India
+CUST-01689,6,71.7,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01690,55,41.24,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01691,64,60.5,Two year,DSL,No,Electronic check,No,India
+CUST-01692,47,76.25,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01693,28,39.79,One year,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01694,11,47.5,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01695,49,56.32,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01696,33,29.28,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01697,10,54.44,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01698,25,67.97,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01699,69,55.01,Two year,DSL,No,Electronic check,No,India
+CUST-01700,19,58.22,One year,No,Yes,Bank transfer,No,India
+CUST-01701,12,64.5,One year,DSL,No,Credit card,Yes,India
+CUST-01702,49,48.61,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01703,14,82.28,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01704,66,100.9,One year,DSL,No,Bank transfer,Yes,India
+CUST-01705,61,53.39,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01706,70,77.13,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01707,65,,One year,DSL,Yes,Electronic check,No,India
+CUST-01708,17,74.14,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01709,15,104.14,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01710,24,77.72,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01711,33,20.66,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01712,63,76.35,One year,Fiber optic,No,Credit card,No,India
+CUST-01713,52,95.82,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01714,46,59.46,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01715,63,89.89,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01716,46,47.75,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01717,27,27.86,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01718,29,68.53,Month-to-month,No,No,Mailed check,No,India
+CUST-01719,37,21.09,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01720,6,59.01,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01721,53,97.17,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01722,46,17.26,Two year,No,Yes,Bank transfer,No,India
+CUST-01723,52,33.01,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01724,38,,Two year,DSL,Yes,Credit card,No,India
+CUST-01725,56,63.42,Month-to-month,DSL,No,Credit card,No,India
+CUST-01726,68,55.86,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01727,41,99.98,Two year,No,Yes,Bank transfer,No,India
+CUST-01728,31,88.86,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01729,7,77.38,Month-to-month,DSL,Yes,Credit card,Yes,India
+CUST-01730,56,68.64,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01731,65,74.83,One year,No,No,Electronic check,No,India
+CUST-01732,50,43.45,One year,Fiber optic,No,Mailed check,No,India
+CUST-01733,62,86.43,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01734,62,37.2,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01735,57,85.88,One year,DSL,Yes,Bank transfer,Yes,India
+CUST-01736,36,94.65,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01737,7,,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01738,0,60.59,Month-to-month,No,No,Bank transfer,Yes,India
+CUST-01739,14,75.01,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01740,31,15.0,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01741,53,72.56,Month-to-month,Fiber optic,No,Bank transfer,No,India
+CUST-01742,32,62.17,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01743,1,63.73,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01744,15,82.66,One year,Fiber optic,Yes,Credit card,No,India
+CUST-01745,70,63.13,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01746,71,36.49,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01747,27,61.46,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01748,57,66.69,One year,DSL,Yes,Credit card,No,India
+CUST-01749,51,67.87,Two year,Fiber optic,No,Credit card,Yes,India
+CUST-01750,67,69.05,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01751,63,90.98,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01752,45,37.85,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01753,28,69.39,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01754,45,97.25,One year,No,No,Credit card,Yes,India
+CUST-01755,22,21.63,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01756,25,69.49,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01757,43,50.37,Month-to-month,Fiber optic,Yes,Mailed check,No,India
+CUST-01758,41,55.73,Two year,Fiber optic,No,Credit card,No,India
+CUST-01759,41,42.38,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01760,27,60.76,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01761,29,111.03,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01762,0,33.39,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01763,43,35.76,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01764,41,32.45,One year,DSL,No,Mailed check,No,India
+CUST-01765,67,108.19,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01766,36,53.44,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01767,33,64.36,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01768,4,54.93,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01769,14,41.39,Two year,No,No,Credit card,Yes,India
+CUST-01770,24,59.12,One year,Fiber optic,No,Mailed check,No,India
+CUST-01771,27,126.46,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01772,26,99.8,One year,No,No,Bank transfer,No,India
+CUST-01773,28,43.68,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01774,55,81.19,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01775,9,44.21,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01776,23,20.59,One year,DSL,No,Bank transfer,No,India
+CUST-01777,11,90.49,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01778,22,94.0,Two year,DSL,No,Electronic check,Yes,India
+CUST-01779,49,91.15,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01780,3,53.25,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01781,24,60.83,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01782,1,83.74,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01783,68,74.79,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01784,52,55.16,One year,No,No,Bank transfer,No,India
+CUST-01785,17,24.52,One year,Fiber optic,Yes,Electronic check,No,India
+CUST-01786,14,67.85,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01787,7,91.98,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01788,34,,One year,DSL,No,Mailed check,No,India
+CUST-01789,54,80.97,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01790,42,,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01791,63,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01792,24,86.8,Month-to-month,No,No,Credit card,Yes,India
+CUST-01793,20,47.64,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01794,34,24.58,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01795,14,51.66,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01796,70,87.23,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01797,13,51.45,One year,DSL,Yes,Electronic check,Yes,India
+CUST-01798,34,47.65,One year,No,No,Electronic check,No,India
+CUST-01799,37,19.47,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01800,4,108.82,Two year,DSL,Yes,Electronic check,No,India
+CUST-01801,33,85.64,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01802,32,84.25,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01803,18,89.19,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01804,9,79.42,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01805,3,58.89,Two year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01806,0,60.91,Month-to-month,No,Yes,Bank transfer,Yes,India
+CUST-01807,34,54.31,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01808,6,130.87,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01809,69,78.9,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01810,17,53.4,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01811,46,76.64,Month-to-month,DSL,No,Credit card,Yes,India
+CUST-01812,48,39.73,One year,Fiber optic,No,Credit card,No,India
+CUST-01813,35,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01814,63,48.47,One year,No,No,Bank transfer,No,India
+CUST-01815,7,77.53,Month-to-month,No,Yes,Credit card,No,India
+CUST-01816,16,91.65,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01817,18,74.62,Two year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01818,9,67.36,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01819,21,65.27,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01820,22,63.59,Two year,DSL,Yes,Electronic check,No,India
+CUST-01821,55,50.58,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01822,21,53.76,One year,DSL,No,Bank transfer,Yes,India
+CUST-01823,63,101.99,Month-to-month,DSL,Yes,Credit card,No,India
+CUST-01824,55,62.29,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01825,64,45.36,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01826,7,52.09,Two year,No,Yes,Electronic check,Yes,India
+CUST-01827,70,92.51,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01828,44,81.89,One year,DSL,No,Electronic check,Yes,India
+CUST-01829,70,79.01,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01830,25,58.56,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01831,68,79.33,Month-to-month,Fiber optic,Yes,Electronic check,No,India
+CUST-01832,42,48.91,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01833,5,58.51,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01834,29,89.25,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01835,9,86.86,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01836,67,40.45,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01837,21,43.61,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01838,16,67.72,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01839,39,,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01840,30,17.11,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01841,6,71.96,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01842,58,30.6,One year,DSL,No,Electronic check,No,India
+CUST-01843,60,49.14,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01844,53,55.89,Month-to-month,DSL,No,Electronic check,No,India
+CUST-01845,44,54.49,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01846,28,51.66,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01847,39,65.18,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01848,37,51.62,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01849,11,28.44,Two year,No,No,Mailed check,Yes,India
+CUST-01850,5,84.5,Two year,No,Yes,Electronic check,Yes,India
+CUST-01851,18,83.82,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01852,32,86.08,One year,DSL,No,Credit card,Yes,India
+CUST-01853,11,26.48,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01854,7,,Two year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01855,61,81.9,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01856,26,39.22,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01857,42,65.23,Month-to-month,DSL,No,Credit card,No,India
+CUST-01858,37,,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01859,52,111.05,One year,DSL,Yes,Electronic check,Yes,India
+CUST-01860,53,113.11,Month-to-month,DSL,Yes,Bank transfer,No,India
+CUST-01861,21,,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01862,61,127.35,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01863,26,42.12,Two year,Fiber optic,Yes,Mailed check,No,India
+CUST-01864,60,89.52,One year,No,Yes,Bank transfer,No,India
+CUST-01865,29,89.26,Month-to-month,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01866,7,40.11,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01867,54,77.33,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01868,2,62.31,Two year,DSL,Yes,Electronic check,No,India
+CUST-01869,55,78.86,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01870,3,70.77,One year,No,Yes,Credit card,Yes,India
+CUST-01871,14,94.91,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01872,43,66.88,Month-to-month,No,No,Bank transfer,No,India
+CUST-01873,67,60.8,One year,No,No,Electronic check,No,India
+CUST-01874,29,92.4,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01875,8,79.51,Month-to-month,Fiber optic,Yes,Credit card,No,India
+CUST-01876,16,83.3,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01877,64,48.39,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01878,52,38.87,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01879,7,50.81,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01880,27,49.48,Two year,No,Yes,Credit card,Yes,India
+CUST-01881,19,84.65,One year,DSL,No,Electronic check,No,India
+CUST-01882,12,89.4,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01883,60,61.12,Two year,DSL,No,Bank transfer,No,India
+CUST-01884,44,100.77,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01885,12,99.21,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01886,46,71.08,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01887,29,,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01888,4,104.38,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01889,32,63.47,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01890,13,68.15,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01891,17,56.51,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01892,63,42.76,Month-to-month,No,No,Bank transfer,No,India
+CUST-01893,51,28.28,One year,DSL,Yes,Electronic check,No,India
+CUST-01894,9,,Month-to-month,No,Yes,Mailed check,Yes,India
+CUST-01895,61,45.41,One year,DSL,No,Credit card,No,India
+CUST-01896,41,141.49,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01897,62,37.85,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01898,53,33.57,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01899,24,77.75,One year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01900,38,103.23,Month-to-month,Fiber optic,No,Credit card,No,India
+CUST-01901,38,66.61,Month-to-month,No,Yes,Credit card,Yes,India
+CUST-01902,51,79.31,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01903,17,18.91,One year,DSL,No,Credit card,No,India
+CUST-01904,23,48.06,Month-to-month,DSL,No,Bank transfer,Yes,India
+CUST-01905,17,38.16,Two year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01906,21,17.62,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01907,11,67.92,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01908,2,15.0,Two year,Fiber optic,No,Bank transfer,Yes,India
+CUST-01909,67,31.95,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01910,5,51.57,Two year,Fiber optic,No,Mailed check,No,India
+CUST-01911,63,44.22,One year,Fiber optic,Yes,Mailed check,No,India
+CUST-01912,0,,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01913,55,72.64,One year,Fiber optic,No,Mailed check,No,India
+CUST-01914,23,87.34,One year,No,Yes,Bank transfer,No,India
+CUST-01915,37,83.81,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01916,20,93.52,One year,No,No,Mailed check,Yes,India
+CUST-01917,35,64.95,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01918,32,72.59,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01919,38,77.79,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01920,28,68.54,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01921,38,55.07,Two year,DSL,No,Mailed check,No,India
+CUST-01922,59,56.69,Month-to-month,Fiber optic,No,Electronic check,No,India
+CUST-01923,31,44.56,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01924,26,75.54,One year,No,No,Bank transfer,No,India
+CUST-01925,9,62.65,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01926,25,48.42,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01927,9,48.44,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01928,13,34.74,Month-to-month,Fiber optic,No,Mailed check,Yes,India
+CUST-01929,68,89.47,Month-to-month,DSL,Yes,Mailed check,Yes,India
+CUST-01930,6,66.97,Month-to-month,Fiber optic,Yes,Electronic check,Yes,India
+CUST-01931,34,43.43,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01932,60,85.21,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01933,68,50.99,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01934,10,29.84,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01935,11,90.53,One year,Fiber optic,No,Electronic check,Yes,India
+CUST-01936,26,51.57,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01937,39,54.78,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01938,69,66.03,Two year,No,Yes,Bank transfer,Yes,India
+CUST-01939,14,93.56,One year,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01940,11,65.5,Month-to-month,DSL,Yes,Mailed check,No,India
+CUST-01941,18,35.02,Month-to-month,No,Yes,Electronic check,Yes,India
+CUST-01942,62,78.6,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01943,2,52.88,Two year,Fiber optic,No,Mailed check,Yes,India
+CUST-01944,27,112.2,Two year,Fiber optic,No,Electronic check,Yes,India
+CUST-01945,8,64.97,Two year,No,No,Credit card,No,India
+CUST-01946,11,15.0,Month-to-month,No,No,Mailed check,No,India
+CUST-01947,66,73.93,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01948,0,113.61,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01949,23,104.4,Month-to-month,DSL,No,Mailed check,No,India
+CUST-01950,65,110.77,Month-to-month,Fiber optic,No,Mailed check,No,India
+CUST-01951,43,39.51,One year,Fiber optic,Yes,Bank transfer,No,India
+CUST-01952,5,87.8,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01953,33,46.95,Two year,DSL,Yes,Bank transfer,Yes,India
+CUST-01954,69,70.61,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01955,28,33.18,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01956,38,,Two year,DSL,Yes,Electronic check,No,India
+CUST-01957,38,48.09,One year,No,Yes,Electronic check,No,India
+CUST-01958,47,87.46,Month-to-month,Fiber optic,Yes,Mailed check,Yes,India
+CUST-01959,13,85.02,One year,Fiber optic,No,Credit card,Yes,India
+CUST-01960,60,71.92,Month-to-month,No,No,Credit card,Yes,India
+CUST-01961,71,31.24,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01962,10,57.21,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01963,58,46.35,Month-to-month,No,No,Bank transfer,No,India
+CUST-01964,58,86.74,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01965,53,94.45,Month-to-month,Fiber optic,No,Credit card,Yes,India
+CUST-01966,26,91.41,One year,No,Yes,Mailed check,No,India
+CUST-01967,33,46.12,One year,Fiber optic,No,Mailed check,Yes,India
+CUST-01968,60,15.0,Month-to-month,Fiber optic,Yes,Bank transfer,No,India
+CUST-01969,11,20.83,Month-to-month,No,Yes,Bank transfer,No,India
+CUST-01970,59,100.54,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01971,66,54.97,One year,No,Yes,Electronic check,No,India
+CUST-01972,49,46.23,One year,DSL,No,Credit card,Yes,India
+CUST-01973,24,106.07,One year,DSL,No,Mailed check,Yes,India
+CUST-01974,40,96.63,Month-to-month,Fiber optic,Yes,Credit card,Yes,India
+CUST-01975,3,65.61,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01976,67,57.66,Month-to-month,No,No,Electronic check,No,India
+CUST-01977,24,61.7,Month-to-month,DSL,No,Credit card,No,India
+CUST-01978,4,70.68,One year,Fiber optic,Yes,Bank transfer,Yes,India
+CUST-01979,57,,Month-to-month,DSL,No,Electronic check,Yes,India
+CUST-01980,47,75.56,Month-to-month,No,No,Electronic check,Yes,India
+CUST-01981,44,83.15,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01982,3,94.23,Month-to-month,DSL,Yes,Electronic check,Yes,India
+CUST-01983,54,35.76,One year,DSL,No,Credit card,Yes,India
+CUST-01984,45,83.87,Month-to-month,Fiber optic,No,Electronic check,Yes,India
+CUST-01985,57,57.64,Two year,No,Yes,Electronic check,No,India
+CUST-01986,59,15.0,Two year,No,No,Credit card,No,India
+CUST-01987,15,15.0,Two year,DSL,No,Credit card,Yes,India
+CUST-01988,15,,One year,Fiber optic,No,Electronic check,No,India
+CUST-01989,66,78.28,One year,DSL,No,Bank transfer,No,India
+CUST-01990,38,67.84,One year,Fiber optic,No,Bank transfer,No,India
+CUST-01991,31,69.61,Month-to-month,Fiber optic,No,Bank transfer,Yes,India
+CUST-01992,20,113.77,Month-to-month,DSL,No,Mailed check,Yes,India
+CUST-01993,46,33.27,One year,Fiber optic,Yes,Credit card,Yes,India
+CUST-01994,54,64.31,Month-to-month,No,Yes,Credit card,No,India
+CUST-01995,0,72.61,Month-to-month,DSL,Yes,Bank transfer,Yes,India
+CUST-01996,39,46.59,Two year,DSL,No,Credit card,Yes,India
+CUST-01997,71,65.71,Month-to-month,DSL,Yes,Electronic check,No,India
+CUST-01998,20,25.0,Month-to-month,DSL,No,Bank transfer,No,India
+CUST-01999,20,100.25,One year,DSL,No,Credit card,No,India
+CUST-00000,6,46.45,One year,DSL,No,Electronic check,Yes,India

@@ -1,31 +1,4 @@
-"""
-llm_advisor.py
-THE AGENTIC LAYER
-Lets an LLM make (bounded, validated) decisions at two points in the
-pipeline where the original code used fixed heuristics:
 
-  1. Data cleaning strategy — missing-data threshold, whether to cap
-     outliers, and any extra columns worth dropping given the stated
-     business objective (e.g. "drop internal-only fields the LLM
-     recognizes as irrelevant to the objective").
-  2. Model shortlist — narrowing the rule-selected candidate models down
-     to the ones the LLM judges most appropriate for the task, dataset
-     size, and objective.
-
-Every suggestion coming back from the LLM is validated and clamped before
-it's allowed to affect the pipeline:
-  - Column names must actually exist in the dataset (and never be the
-    target column).
-  - The missing-data threshold is clamped to a sane range.
-  - The model shortlist must be a non-empty subset of the models the
-    rule-based ModelSelector already proposed — the LLM can narrow or
-    reorder that list, but it can never introduce a model that wasn't
-    already vetted as appropriate for the task type.
-
-If the LLM is unavailable (no API key, network failure, bad JSON, etc.)
-every method falls back to the exact defaults the pipeline used before this
-layer existed, so behavior is unchanged in the no-LLM case.
-"""
 
 from __future__ import annotations
 from dataclasses import dataclass, field

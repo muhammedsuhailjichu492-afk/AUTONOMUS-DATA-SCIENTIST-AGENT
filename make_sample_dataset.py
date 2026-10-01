@@ -1,11 +1,4 @@
-"""
-make_sample_dataset.py
-Generates a synthetic customer-churn CSV so you can test-drive the agent
-immediately without needing your own dataset.
 
-Run:
-    python sample_data/make_sample_dataset.py
-"""
 
 import numpy as np
 import pandas as pd

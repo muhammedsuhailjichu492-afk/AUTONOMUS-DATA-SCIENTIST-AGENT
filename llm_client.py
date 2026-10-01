@@ -1,27 +1,4 @@
-"""
-llm_client.py
-Thin wrapper around the Anthropic API used by every LLM-powered feature in
-this project (agentic advisor, narrative report writer, and chat).
 
-Design goals:
-  - The rest of the codebase never talks to the `anthropic` package directly.
-  - Every method degrades gracefully: if no API key is configured, the
-    `anthropic` package isn't installed, or a call fails for any reason
-    (network, auth, rate limit, malformed response), methods return None
-    instead of raising. Callers are expected to fall back to the existing
-    rule-based behavior when that happens, so the pipeline keeps working
-    exactly as before even with zero LLM configuration.
-
-Configuration:
-  - API key: pass `api_key=...` explicitly, or set the ANTHROPIC_API_KEY
-    environment variable.
-  - Model: defaults to "claude-sonnet-4-6" (a solid, inexpensive default for
-    this kind of structured-advice / report-writing work). Pass a different
-    model string (e.g. "claude-opus-4-8" or "claude-haiku-4-5-20251001") to
-    change it. Always double-check the current model ID in Anthropic's docs
-    (https://docs.claude.com/en/docs/about-claude/models/overview) before
-    relying on this in production, since model strings are updated over time.
-"""
 
 from __future__ import annotations
 import os
